@@ -1,6 +1,6 @@
 # iamkmb.github.io
 
-# Data Scietist
+# Data Scientist
 
 ### Education
 Master in Business Analytics
